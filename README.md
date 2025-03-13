@@ -3,7 +3,7 @@
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-A command-line implementation of the classic card game Blackjack in Python.
+A Python implementation of the classic card game Blackjack.
 
 ## 📜 About
 This project implements the popular casino game Blackjack, where players compete against the dealer to get as close to 21 points as possible without going over. It's an excellent example of object-oriented programming principles and game logic implementation in Python.
